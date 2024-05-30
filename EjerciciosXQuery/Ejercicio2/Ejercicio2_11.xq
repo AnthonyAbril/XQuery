@@ -6,5 +6,5 @@ return
 <libro>
   <titulo>{$libro/title}</titulo>
   <precio>{$precio}</precio>
-  <precioIVA>{round($precio*0.21,2)}</precioIVA>
+  <precioIVA>{round($precio*0.04,2)}</precioIVA>
 </libro>
