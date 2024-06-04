@@ -4,5 +4,5 @@ let $libro := doc("libreria.xml")/bookstore/book
 let $total := count($libro)
 return <libros>{
   $libro/title,
-  $total
+  <total>{$total}</total>
 }</libros>

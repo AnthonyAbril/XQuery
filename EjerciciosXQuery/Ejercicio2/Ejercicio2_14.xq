@@ -2,6 +2,6 @@
 
 for $libro in doc("libreria.xml")/bookstore/book
 return <libro>{
-  <titulo>{$libro/title/data()}</titulo>,
+  <titulo>{data($libro/title)}</titulo>,
   <autores>{count($libro/author)}</autores>
 }</libro>

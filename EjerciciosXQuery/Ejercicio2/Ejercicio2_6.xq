@@ -2,6 +2,7 @@
 
 let $libro := doc("libreria.xml")/bookstore/book
 return <publicacion>{$libro/year}</publicacion>
+
 (:
 <publicacion>{
 for $libro in doc("libreria.xml")/bookstore/book

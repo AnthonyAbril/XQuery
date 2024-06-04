@@ -4,7 +4,7 @@ for $libro in doc("libreria.xml")/bookstore/book
 let $precio := $libro/price
 return 
 <libro>
-  <titulo>{$libro/title}</titulo>
-  <precio>{$precio}</precio>
+  <titulo>{data($libro/title)}</titulo>
+  <precio>{data($precio)}</precio>
   <precioIVA>{round($precio*0.04,2)}</precioIVA>
 </libro>
