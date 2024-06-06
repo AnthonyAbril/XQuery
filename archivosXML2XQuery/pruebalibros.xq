@@ -1,3 +1,2 @@
-for $b in doc("libros.xml")//libro
-where $b/@anyo = "2000"
-return $b/titulo
+let $d := doc("libros.xml")/bib/libro/titulo
+return <titulos>{ $d }</titulos>

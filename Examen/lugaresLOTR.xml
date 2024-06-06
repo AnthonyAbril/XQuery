@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lugares>
+    <lugar>
+        <nombre>La Comarca</nombre>
+        <descripcion>Una región pacífica habitada principalmente por hobbits, conocida por sus campos verdes y colinas ondulantes.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Bree</nombre>
+        <descripcion>Una ciudad ubicada en la encrucijada entre la Comarca y el resto de la Tierra Media, famosa por su posada, El Poney Pisador.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Rivendel</nombre>
+        <descripcion>También conocida como Imladris, es la morada de Elrond, un refugio élfico oculto en las montañas, donde se celebró el Concilio de Elrond.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Lothlórien</nombre>
+        <descripcion>Un bosque dorado y mágico habitado por los elfos, gobernado por Galadriel y Celeborn, conocido por sus grandes árboles mallorn y sus poderosas defensas.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Gondor</nombre>
+        <descripcion>Un reino humano en el sur de la Tierra Media, conocido por su ciudad capital, Minas Tirith, y por ser uno de los últimos bastiones contra la oscuridad de Mordor.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Mordor</nombre>
+        <descripcion>La tierra oscura y devastada al este de la Tierra Media, dominada por el Señor Oscuro Sauron, donde se encuentra el Monte del Destino y la torre de Barad-dûr.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Minas Tirith</nombre>
+        <descripcion>La ciudad capital de Gondor, construida en siete niveles sobre una colina, conocida por su imponente Muro Blanco y por ser el sitio de la última batalla contra las fuerzas de Sauron.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Moria</nombre>
+        <descripcion>Un antiguo reino enano bajo las Montañas Nubladas, famoso por sus minas de mithril y su caída ante el despertar del Balrog.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Isengard</nombre>
+        <descripcion>Una región en el valle de Nan Curunír, donde se encuentra la Torre de Orthanc y la fortaleza de Saruman.</descripcion>
+    </lugar>
+    <lugar>
+        <nombre>Montañas Nubladas</nombre>
+        <descripcion>Las Montañas Nubladas son una cadena montañosa en la Tierra Media que albergan antiguas minas enanas, como Moria, que alguna vez fueron prósperas pero cayeron en la oscuridad.</descripcion>
+    </lugar>
+</lugares>
